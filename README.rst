@@ -2,4 +2,4 @@
 Project Euler
 =============
 
-Completing the problems on `Project Euler<https://projecteuler.net>`.
+Completing the problems on `Project Euler<https://projecteuler.net>`_.
