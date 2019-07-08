@@ -10,6 +10,6 @@ begin
   second = new
 
   sum += first if (first % 2).zero?
-end while (first < 4000000 and second < 4000000)
+end while (first < 4_000_000 && second < 4_000_000)
 
 puts sum
